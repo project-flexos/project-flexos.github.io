@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: FlexOS
 description: Towards Flexible OS Isolation
-show_downloads: true
+show_downloads: false
 google_analytics:
