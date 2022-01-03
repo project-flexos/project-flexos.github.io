@@ -5,17 +5,26 @@ at [ASPLOS 2022](https://asplos-conference.org/).
 
 * * *
 
-Work in progress.
+Operating Systems (OSes) have historically been classified according to their isolation properties: monolithic OSes, microkernels, single-address-space OSes, or unikernels... Decades of experience in research and industry showed that there is no silver bullet and that different use-cases might demand different approaches to optimize safety and performance.
+
+What if we tried to design an operating system able to be easily reconfigured into any of these points in the OS design space? What if the OS could be a microkernel, a unikernel, or a monolithic OS, at will, and using a wide range of hardware- and software-backed isolation mechanisms?
+
+FlexOS is an effort to try and answer these questions. FlexOS is an OS allowing users to easily specialize the safety and isolation strategy of an OS at compilation/deployment time, instead of design time. Depending on the configuration, the same FlexOS code can mimic a microkernel with multiple address-spaces, a single-address-space OS with Intel MPK compartments, or many other OS isolation approaches. A prototype of FlexOS on top of Unikraft, a popular library OS framework, is available [on GitHub](https://github.com/project-flexos/unikraft).
 
 ### Publications
 
-* **FlexOS: Towards Flexible OS Isolation.**<br/>*H. Lefeuvre*, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) (to appear in) [[ArXiv](https://arxiv.org/abs/2112.06566)]
+* **FlexOS: Towards Flexible OS Isolation.**<br/>*H. Lefeuvre*, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) (to appear in) [[ArXiv](https://arxiv.org/abs/2112.06566)] [[Artifact](https://github.com/project-flexos/asplos22-ae)]
 
-* **FlexOS: Easy Specialization of OS Safety Properties.**<br/>*H. Lefeuvre*.<br/>[**Middleware DW'21**](https://middleware-conf.github.io/2021/call-for-doctoral-symposium/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3491087.3493683)]
+* **FlexOS: Easy Specialization of OS Safety Properties.**<br/>*H. Lefeuvre*.<br/>[**Middleware DW'21**](https://middleware-conf.github.io/2021/call-for-doctoral-symposium/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3491087.3493683)] [[YouTube](https://www.youtube.com/watch?v=jH9sNBuvp0Q)]
 
-* **FlexOS : Vers une Isolation Flexible du Noyau.**<br/>*H. Lefeuvre*, V-A. Bădoiu, S. Teodorescu, P. Olivier, T. Mosnoi, R. Deaconescu, F. Huici, C. Raiciu.<br/>[**COMPAS'21**](https://2021.compas-conference.fr/) [[HAL](https://hal.archives-ouvertes.fr/hal-03283641/)]
+* **FlexOS: Making OS Isolation Flexible.**<br/>*H. Lefeuvre*, V-A. Bădoiu, S. Teodorescu, P. Olivier, T. Mosnoi, R. Deaconescu, F. Huici, C. Raiciu.<br/>[**HotOS'21**](https://sigops.org/s/conferences/hotos/2021/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3458336.3465292)] [[YouTube](https://www.youtube.com/watch?v=0abQORrJLS4)]
 
-* **FlexOS: Making OS Isolation Flexible.**<br/>*H. Lefeuvre*, V-A. Bădoiu, S. Teodorescu, P. Olivier, T. Mosnoi, R. Deaconescu, F. Huici, C. Raiciu.<br/>[**HotOS'21**](https://sigops.org/s/conferences/hotos/2021/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3458336.3465292)]
+### Presentations
+
+* **Retrotting Isolation into Unikraft with FlexOS.**<br/>[**USoC'21**](https://usoc21.unikraft.org/) [[YouTube](https://www.youtube.com/watch?v=XjVzZeq1Pww)]
+
+* **FlexOS : Vers une Isolation Flexible du Noyau.**<br/>[**COMPAS'21**](https://2021.compas-conference.fr/) [[HAL](https://hal.archives-ouvertes.fr/hal-03283641/)]
+
 
 ### Contact
 
