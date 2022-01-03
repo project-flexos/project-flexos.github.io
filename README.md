@@ -13,11 +13,11 @@ FlexOS is an effort to try and answer these questions. FlexOS is an OS allowing 
 
 ### Publications
 
-* **FlexOS: Towards Flexible OS Isolation.**<br/>*H. Lefeuvre*, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) (to appear in) [[ArXiv](https://arxiv.org/abs/2112.06566)] [[Artifact](https://github.com/project-flexos/asplos22-ae)]
+* **FlexOS: Towards Flexible OS Isolation.**<br/>H. Lefeuvre, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) (to appear in) [[ArXiv](https://arxiv.org/abs/2112.06566)] [[Artifact](https://github.com/project-flexos/asplos22-ae)]
 
-* **FlexOS: Easy Specialization of OS Safety Properties.**<br/>*H. Lefeuvre*.<br/>[**Middleware DW'21**](https://middleware-conf.github.io/2021/call-for-doctoral-symposium/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3491087.3493683)] [[YouTube](https://www.youtube.com/watch?v=jH9sNBuvp0Q)]
+* **FlexOS: Easy Specialization of OS Safety Properties.**<br/>H. Lefeuvre.<br/>[**Middleware DW'21**](https://middleware-conf.github.io/2021/call-for-doctoral-symposium/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3491087.3493683)] [[YouTube](https://www.youtube.com/watch?v=jH9sNBuvp0Q)]
 
-* **FlexOS: Making OS Isolation Flexible.**<br/>*H. Lefeuvre*, V-A. Bădoiu, S. Teodorescu, P. Olivier, T. Mosnoi, R. Deaconescu, F. Huici, C. Raiciu.<br/>[**HotOS'21**](https://sigops.org/s/conferences/hotos/2021/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3458336.3465292)] [[YouTube](https://www.youtube.com/watch?v=0abQORrJLS4)]
+* **FlexOS: Making OS Isolation Flexible.**<br/>H. Lefeuvre, V-A. Bădoiu, S. Teodorescu, P. Olivier, T. Mosnoi, R. Deaconescu, F. Huici, C. Raiciu.<br/>[**HotOS'21**](https://sigops.org/s/conferences/hotos/2021/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3458336.3465292)] [[YouTube](https://www.youtube.com/watch?v=0abQORrJLS4)]
 
 ### Presentations
 
