@@ -39,4 +39,4 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 FlexOS is an open-source project resulting from a collaboration between the University of Manchester, Politehnica University of Bucharest, and NEC Laboratories Europe.
 
-HermiTux is supported in part by a studentship from NEC Labs Europe, EU H2020 grants 825377 (UNICORE), 871793 (ACCORDION) and 758815 (CORNET), as well as the UK’s EPSRC grants EP/V012134/1 (UniFaaS) and EP/V000225/1 (SCorCH). UPB authors are partly supported by VMWare gift funding.
+HermiTux is supported in part by a studentship from NEC Labs Europe, EU H2020 grants 825377 ([UNICORE](https://unicore-project.eu/)), 871793 ([ACCORDION](https://www.accordion-project.eu/)) and 758815 (CORNET), as well as the UK’s EPSRC grants EP/V012134/1 ([UniFaaS](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V012134/1)) and EP/V000225/1 ([SCorCH](https://scorch-project.github.io/)). UPB authors are partly supported by VMWare gift funding.
