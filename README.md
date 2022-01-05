@@ -1,5 +1,6 @@
 * * *
 **News**
+- FlexOS will be presented [at FOSDEM](https://fosdem.org/2022/schedule/event/tee_flexos/) as part of the Hardware-Aided Trusted Computing track.
 - Our FlexOS [paper](https://arxiv.org/abs/2112.06566) was accepted to appear
 at [ASPLOS 2022](https://asplos-conference.org/).
 
