@@ -12,6 +12,10 @@ What if we tried to design an operating system able to be easily reconfigured in
 
 FlexOS is an effort to try and answer these questions. FlexOS is an OS allowing users to easily specialize the safety and isolation strategy of an OS at compilation/deployment time, instead of design time. Depending on the configuration, the same FlexOS code can mimic a microkernel with multiple address-spaces, a single-address-space OS with Intel MPK compartments, or many other OS isolation approaches. A prototype of FlexOS on top of Unikraft, a popular library OS framework, is available [on GitHub](https://github.com/project-flexos/unikraft).
 
+### Getting Started
+
+Our [main README](https://github.com/project-flexos/unikraft) provides a step-by-step guide to get started with our prototype. The README of our ASPLOS [artifact evaluation repository](https://github.com/project-flexos/asplos22-ae) is also a great starting point to reproduce our experiments and create new ones.
+
 ### Publications
 
 * **FlexOS: Towards Flexible OS Isolation.**<br/>H. Lefeuvre, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) (to appear in) [[ArXiv](https://arxiv.org/abs/2112.06566)] [[Artifact](https://github.com/project-flexos/asplos22-ae)]
