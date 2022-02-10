@@ -15,7 +15,7 @@ Operating Systems (OSes) have historically been classified according to their is
 
 What if we tried to design an operating system able to be easily reconfigured into any of these points in the OS design space? What if the OS could be a microkernel, a unikernel, or a monolithic OS, at will, and using a wide range of hardware- and software-backed isolation mechanisms?
 
-FlexOS is an effort to try and answer these questions. FlexOS is an OS allowing users to easily specialize the safety and isolation strategy of an OS at compilation/deployment time, instead of design time. Depending on the configuration, the same FlexOS code can mimic a microkernel with multiple address-spaces, a single-address-space OS with Intel MPK compartments, or many other OS isolation approaches. A prototype of FlexOS on top of Unikraft, a popular library OS framework, is available [on GitHub](https://github.com/project-flexos/unikraft).
+FlexOS is an effort to try and answer these questions. FlexOS is an OS allowing users to easily specialize the safety and isolation strategy of an OS at compilation/deployment time, instead of design time. Depending on the configuration, the same FlexOS code can mimic a microkernel with multiple address-spaces, a single-address-space OS with Intel MPK compartments, or many other OS isolation approaches. A prototype of FlexOS on top of [Unikraft](https://unikraft.org/), a popular library OS framework, is available [on GitHub](https://github.com/project-flexos/unikraft).
 
 ### Getting Started
 
