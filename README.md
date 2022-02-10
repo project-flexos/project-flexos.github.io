@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="200" src="https://github.com/project-flexos/project-flexos.github.io/raw/main/logo/SVG/logo-flexos-png.svg">
+<link rel="shortcut icon" type="image/png" href="logo/FAVICON/flexos-favicon-8.png">
+</p>
+
 * * *
 **News**
 - FlexOS will be presented [at FOSDEM](https://fosdem.org/2022/schedule/event/tee_flexos/) as part of the Hardware-Aided Trusted Computing track.
@@ -26,6 +31,8 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 ### Presentations
 
+* **Rethinking the OS for Isolation Flexibility with FlexOS.**<br/>[**FOSDEM'22**](https://fosdem.org/2022/schedule/event/tee_flexos/) [[Video](http://bofh.nikhef.nl/events/FOSDEM/2022/D.trusted-hardware/tee_flexos.webm)]
+
 * **Retrotting Isolation into Unikraft with FlexOS.**<br/>[**USoC'21**](https://usoc21.unikraft.org/) [[YouTube](https://www.youtube.com/watch?v=XjVzZeq1Pww)]
 
 * **FlexOS : Vers une Isolation Flexible du Noyau.**<br/>[**COMPAS'21**](https://2021.compas-conference.fr/) [[HAL](https://hal.archives-ouvertes.fr/hal-03283641/)]
@@ -40,3 +47,5 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 FlexOS is an open-source project resulting from a collaboration between the University of Manchester, Politehnica University of Bucharest, and NEC Laboratories Europe.
 
 FlexOS is supported in part by a studentship from NEC Labs Europe, EU H2020 grants 825377 ([UNICORE](https://unicore-project.eu/)), 871793 ([ACCORDION](https://www.accordion-project.eu/)) and 758815 (CORNET), as well as the UK’s EPSRC grants EP/V012134/1 ([UniFaaS](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V012134/1)) and EP/V000225/1 ([SCorCH](https://scorch-project.github.io/)). UPB authors are partly supported by VMWare gift funding.
+
+FlexOS logo made by [Mr Zozu](https://zozu-design.fr/).
