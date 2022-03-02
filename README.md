@@ -5,6 +5,8 @@
 
 * * *
 **News**
+- Our FlexOS [paper](https://dl.acm.org/doi/10.1145/3503222.3507759) was awarded the Distinguised Artifact Award at [ASPLOS'22](https://asplos-conference.org/)!
+- FlexOS will be presented [at FGBS'22](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/).
 - FlexOS will be presented [at FOSDEM](https://fosdem.org/2022/schedule/event/tee_flexos/) as part of the Hardware-Aided Trusted Computing track.
 - Our FlexOS [paper](https://arxiv.org/abs/2112.06566) was accepted to appear
 at [ASPLOS 2022](https://asplos-conference.org/).
