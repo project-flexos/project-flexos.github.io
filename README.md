@@ -5,6 +5,7 @@
 
 * * *
 **News**
+- FlexOS will be presented [at SPMA'22](https://sites.google.com/view/spma22eurosys/home).
 - Our FlexOS [paper](https://dl.acm.org/doi/10.1145/3503222.3507759) was awarded the Distinguised Artifact Award at [ASPLOS'22](https://asplos-conference.org/)!
 - FlexOS will be presented [at FGBS'22](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/).
 - FlexOS will be presented [at FOSDEM](https://fosdem.org/2022/schedule/event/tee_flexos/) as part of the Hardware-Aided Trusted Computing track.
