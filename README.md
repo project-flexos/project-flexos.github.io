@@ -5,7 +5,7 @@
 
 * * *
 **News**
-- We are [recruiting at postdoc](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22071) to work on FlexOS at the University of Manchester
+- We are [recruiting at postdoc](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22071) to work on FlexOS at the University of Manchester.
 - FlexOS will be presented [at SPMA'22](https://sites.google.com/view/spma22eurosys/home).
 - Our FlexOS [paper](https://dl.acm.org/doi/10.1145/3503222.3507759) was awarded the Distinguised Artifact Award at [ASPLOS'22](https://asplos-conference.org/)!
 - FlexOS will be presented [at FGBS'22](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/).
