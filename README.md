@@ -52,4 +52,4 @@ FlexOS is an open-source project resulting from a collaboration between the Univ
 
 FlexOS is supported in part by a studentship from NEC Labs Europe, EU H2020 grants 825377 ([UNICORE](https://unicore-project.eu/)), 871793 ([ACCORDION](https://www.accordion-project.eu/)) and 758815 (CORNET), as well as the UK’s EPSRC grants EP/V012134/1 ([UniFaaS](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V012134/1)) and EP/V000225/1 ([SCorCH](https://scorch-project.github.io/)). UPB authors are partly supported by VMWare gift funding.
 
-FlexOS logo made by [Zozu Design](https://zozu-design.fr/).
+FlexOS logo made by [Kerbreizh Informatique](https://www.kerbreizh-informatique.fr/communication/).
