@@ -41,6 +41,8 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 * **FlexOS : Vers une Isolation Flexible du Noyau.**<br/>[**COMPAS'21**](https://2021.compas-conference.fr/) [[HAL](https://hal.archives-ouvertes.fr/hal-03283641/)]
 
+* Other Presentations (no recording): [**SPMA'22**](https://sites.google.com/view/spma22eurosys/home), [**FGBS'22**](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/).
+
 
 ### Contact
 
