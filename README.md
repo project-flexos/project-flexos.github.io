@@ -46,7 +46,7 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 ### Tutorials
 
-* **FlexOS Session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/)**<br/>[[Slides]](/slides/flexos-lyon-tutorial.pdf)
+* **FlexOS Session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/)** [[Slides]](/slides/flexos-lyon-tutorial.pdf)
 
 ### Contact
 
