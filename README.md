@@ -5,6 +5,7 @@
 
 * * *
 **News**
+- We will hold a FlexOS session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/).
 - We are [recruiting at postdoc](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22071) to work on FlexOS at the University of Manchester.
 - FlexOS will be presented [at SPMA'22](https://sites.google.com/view/spma22eurosys/home).
 - Our FlexOS [paper](https://dl.acm.org/doi/10.1145/3503222.3507759) was awarded the Distinguised Artifact Award at [ASPLOS'22](https://asplos-conference.org/)!
@@ -43,6 +44,9 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 * Other Presentations (no recording): [**SPMA'22**](https://sites.google.com/view/spma22eurosys/home), [**FGBS'22**](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/).
 
+### Tutorials
+
+* **FlexOS Session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/)**<br/>[[Slides]](/slides/flexos-lyon-tutorial.pdf)
 
 ### Contact
 
