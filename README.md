@@ -27,7 +27,7 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 ### Publications
 
-* **FlexOS: Towards Flexible OS Isolation.**<br/>H. Lefeuvre, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) [[ACM](https://dl.acm.org/doi/10.1145/3503222.3507759)] [[ArXiv](https://arxiv.org/abs/2112.06566)] [[Artifact](https://github.com/project-flexos/asplos22-ae)]
+* **FlexOS: Towards Flexible OS Isolation.**<br/>H. Lefeuvre, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) [[ACM](https://dl.acm.org/doi/10.1145/3503222.3507759)] [[ArXiv](https://arxiv.org/abs/2112.06566)] [[Artifact](https://github.com/project-flexos/asplos22-ae)] [[YouTube](https://www.youtube.com/watch?v=fKkV4yp97Wc)]
 
 * **FlexOS: Easy Specialization of OS Safety Properties.**<br/>H. Lefeuvre.<br/>[**Middleware DW'21**](https://middleware-conf.github.io/2021/call-for-doctoral-symposium/) [[ACM](https://dl.acm.org/doi/abs/10.1145/3491087.3493683)] [[YouTube](https://www.youtube.com/watch?v=jH9sNBuvp0Q)]
 
