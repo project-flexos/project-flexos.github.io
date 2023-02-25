@@ -5,6 +5,7 @@
 
 * * *
 **News**
+- Our follow-up work, [ConfFuzz](https://conffuzz.github.io/), was accepted at NDSS'23!
 - We will hold a FlexOS session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/).
 - We are [recruiting at postdoc](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22071) to work on FlexOS at the University of Manchester.
 - FlexOS will be presented [at SPMA'22](https://sites.google.com/view/spma22eurosys/home).
@@ -47,6 +48,10 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 ### Tutorials
 
 * **FlexOS Session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/)** [[Slides]](/slides/flexos-lyon-tutorial.pdf)
+
+### Student Theses
+
+* **VM/EPT: A Virtualisation-based Isolation Backend for FlexOS.**<br/>S. Rauch.<br/>[KIT Master Thesis] [[PDF](https://os.itec.kit.edu/97_3826.php)]
 
 ### Contact
 
