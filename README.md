@@ -51,7 +51,7 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 ### Student Theses
 
-* **VM/EPT: A Virtualisation-based Isolation Backend for FlexOS.**<br/>S. Rauch's Master Thesis at [KIT](https://os.itec.kit.edu/index.php) [[PDF](https://os.itec.kit.edu/97_3826.php)]
+* **VM/EPT: A Virtualisation-based Isolation Backend for FlexOS.**<br/>S. Rauch, 2022, Master Thesis at [KIT](https://os.itec.kit.edu/index.php) [[PDF](https://os.itec.kit.edu/97_3826.php)]
 
 ### Contact
 
