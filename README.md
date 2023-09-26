@@ -5,7 +5,7 @@
 
 * * *
 **News**
-- We have ported FlexOS to the [CHERI/ARM Morello]([url](https://www.arm.com/architecture/cpu/morello)) platform, to learn more check out our [PLOS'23]([url](https://plos-workshop.org/2023/)) paper "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)".
+- We have ported FlexOS to the [CHERI/ARM Morello]([url](https://www.arm.com/architecture/cpu/morello)) platform, to learn more check out our [PLOS'23](https://plos-workshop.org/2023/) paper "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)".
 - Our follow-up work, [ConfFuzz](https://conffuzz.github.io/), was accepted at NDSS'23!
 - We will hold a FlexOS session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/).
 - We are [recruiting at postdoc](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22071) to work on FlexOS at the University of Manchester.
@@ -29,6 +29,8 @@ FlexOS is an effort to try and answer these questions. FlexOS is an OS allowing 
 Our [main README](https://github.com/project-flexos/unikraft) provides a step-by-step guide to get started with our prototype. The README of our ASPLOS [artifact evaluation repository](https://github.com/project-flexos/asplos22-ae) is also a great starting point to reproduce our experiments and create new ones.
 
 ### Publications
+
+* **Software Compartmentalization Trade-Offs with Hardware Capabilities.**<br/>J. A. Kressel, H. Lefeuvre, P. Olivier.<br/>[**PLOS'23**](https://www.plos-workshop.org/2023/) [[ArXiv](https://arxiv.org/abs/2309.11332)]
 
 * **FlexOS: Towards Flexible OS Isolation.**<br/>H. Lefeuvre, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier.<br/>[**ASPLOS'22**](https://asplos-conference.org/) [[ACM](https://dl.acm.org/doi/10.1145/3503222.3507759)] [[ArXiv](https://arxiv.org/abs/2112.06566)] [[Artifact](https://github.com/project-flexos/asplos22-ae)] [[YouTube](https://www.youtube.com/watch?v=fKkV4yp97Wc)]
 
