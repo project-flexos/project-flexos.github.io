@@ -5,7 +5,7 @@
 
 * * *
 **News**
-- FlexOS will be presented at the Huawei Future Device Technology Summit’23.
+- FlexOS will be presented at the [Huawei Future Device Technology Summit’23](https://github.com/project-flexos/project-flexos.github.io/raw/main/docs/Huawei_Future_Device_Summit_Helsinki.pdf).
 - We have ported FlexOS to the [CHERI/ARM Morello]([url](https://www.arm.com/architecture/cpu/morello)) platform, to learn more check out our [PLOS'23](https://plos-workshop.org/2023/) paper "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)".
 - Our follow-up work, [ConfFuzz](https://conffuzz.github.io/), was accepted at NDSS'23!
 - We will hold a FlexOS session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/).
@@ -47,7 +47,7 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 * **FlexOS : Vers une Isolation Flexible du Noyau.**<br/>[**COMPAS'21**](https://2021.compas-conference.fr/) [[HAL](https://hal.archives-ouvertes.fr/hal-03283641/)]
 
-* Other Presentations (no recording): [**SPMA'22**](https://sites.google.com/view/spma22eurosys/home), [**FGBS'22**](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/).
+* Other Presentations (no recording): [**SPMA'22**](https://sites.google.com/view/spma22eurosys/home), [**FGBS'22**](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/), [Huawei Future Device Technology Summit’23](https://github.com/project-flexos/project-flexos.github.io/raw/main/docs/Huawei_Future_Device_Summit_Helsinki.pdf) [[Slides](/slides/flexos-huawei-helsinki23.pdf)].
 
 ### Tutorials
 
