@@ -57,6 +57,7 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 * **VM/EPT: A Virtualisation-based Isolation Backend for FlexOS.**<br/>S. Rauch, 2022, Master Thesis at [KIT](https://os.itec.kit.edu/index.php) [[PDF](https://os.itec.kit.edu/97_3826.php)]
 * **Enforcing Control-Flow Integrity in FlexOS**<br/>M. Krajewski, 2023, BSc Thesis at [The University of Manchester](https://www.manchester.ac.uk/) [[PDF](https://github.com/project-flexos/project-flexos.github.io/raw/main/docs/mateusz-krajewski-report.pdf)]
+* **Exploring Software Compartmentalisation with Hardware Capabilities**<br/>J. A. Kressel, 2023, MPhil Thesis at [The University of Manchester](https://www.manchester.ac.uk/) [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/280560037/FULL_TEXT.PDF)]
 
 ### Contact
 
