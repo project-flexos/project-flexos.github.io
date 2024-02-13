@@ -9,7 +9,6 @@
 - We have ported FlexOS to the [CHERI/ARM Morello]([url](https://www.arm.com/architecture/cpu/morello)) platform, to learn more check out our [PLOS'23](https://plos-workshop.org/2023/) paper "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)".
 - Our follow-up work, [ConfFuzz](https://conffuzz.github.io/), was accepted at NDSS'23!
 - We will hold a FlexOS session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/).
-- We are [recruiting at postdoc](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22071) to work on FlexOS at the University of Manchester.
 - FlexOS will be presented [at SPMA'22](https://sites.google.com/view/spma22eurosys/home).
 - Our FlexOS [paper](https://arxiv.org/abs/2112.06566) was awarded the Distinguised Artifact Award at [ASPLOS'22](https://asplos-conference.org/)!
 - FlexOS will be presented [at FGBS'22](https://www.betriebssysteme.org/aktivitaeten/treffen/2022-hamburg/programm/).
