@@ -62,7 +62,10 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 
 ### Contact
 
-[Hugo Lefeuvre](https://owl.eu.com), ~~The University of Manchester: hugo.lefeuvre *at* manchester.ac.uk~~ hugo.lefeuvre *at* ubc.ca (moved to the University of British Columbia)
+~~[Hugo Lefeuvre](https://owl.eu.com), The University of Manchester: hugo.lefeuvre *at* manchester.ac.uk~~ (graduated)
+
+[Hugo Lefeuvre](https://owl.eu.com), The University of British Columbia: hugo.lefeuvre *at* ubc.ca
+
 [Pierre Olivier](https://sites.google.com/view/pierreolivier), The University of Manchester: pierre.olivier *at* manchester.ac.uk
 
 * * *
