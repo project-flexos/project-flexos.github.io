@@ -5,6 +5,7 @@
 
 * * *
 **News**
+- Hugo's [PhD thesis was published](https://pure.manchester.ac.uk/ws/portalfiles/portal/317271609/FULL_TEXT.PDF).
 - FlexOS will be presented at the [Huawei Future Device Technology Summit’23](https://github.com/project-flexos/project-flexos.github.io/raw/main/docs/Huawei_Future_Device_Summit_Helsinki.pdf).
 - We have ported FlexOS to the [CHERI/ARM Morello]([url](https://www.arm.com/architecture/cpu/morello)) platform, to learn more check out our [PLOS'23](https://plos-workshop.org/2023/) paper "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)".
 - Our follow-up work, [ConfFuzz](https://conffuzz.github.io/), was accepted at NDSS'23!
@@ -57,10 +58,12 @@ Our [main README](https://github.com/project-flexos/unikraft) provides a step-by
 * **VM/EPT: A Virtualisation-based Isolation Backend for FlexOS.**<br/>S. Rauch, 2022, Master Thesis at [KIT](https://os.itec.kit.edu/index.php) [[PDF](https://os.itec.kit.edu/97_3826.php)]
 * **Enforcing Control-Flow Integrity in FlexOS**<br/>M. Krajewski, 2023, BSc Thesis at [The University of Manchester](https://www.manchester.ac.uk/) [[PDF](https://github.com/project-flexos/project-flexos.github.io/raw/main/docs/mateusz-krajewski-report.pdf)]
 * **Exploring Software Compartmentalisation with Hardware Capabilities**<br/>J. A. Kressel, 2023, MPhil Thesis at [The University of Manchester](https://www.manchester.ac.uk/) [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/280560037/FULL_TEXT.PDF)]
+* **Towards Safe, Flexible, and Easy Software Compartmentalisation**<br/>H. Lefeuvre, 2024, PhD Thesis at [The University of Manchester](https://www.manchester.ac.uk/) [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/317271609/FULL_TEXT.PDF)]
 
 ### Contact
 
-[Hugo Lefeuvre](https://owl.eu.com), The University of Manchester: hugo.lefeuvre *at* manchester.ac.uk
+[Hugo Lefeuvre](https://owl.eu.com), ~~The University of Manchester: hugo.lefeuvre *at* manchester.ac.uk~~ hugo.lefeuvre *at* ubc.ca (moved to the University of British Columbia)
+[Pierre Olivier](https://sites.google.com/view/pierreolivier), The University of Manchester: pierre.olivier *at* manchester.ac.uk
 
 * * *
 
