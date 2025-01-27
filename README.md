@@ -7,7 +7,7 @@
 **News**
 - Hugo's [PhD thesis was published](https://pure.manchester.ac.uk/ws/portalfiles/portal/317271609/FULL_TEXT.PDF).
 - FlexOS will be presented at the [Huawei Future Device Technology Summit’23](https://github.com/project-flexos/project-flexos.github.io/raw/main/docs/Huawei_Future_Device_Summit_Helsinki.pdf).
-- We have ported FlexOS to the [CHERI/ARM Morello]([url](https://www.arm.com/architecture/cpu/morello)) platform, to learn more check out our [PLOS'23](https://plos-workshop.org/2023/) paper "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)".
+- We have ported FlexOS to the [CHERI/ARM Morello](https://www.arm.com/architecture/cpu/morello) platform, to learn more check out our [PLOS'23](https://plos-workshop.org/2023/) paper "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)".
 - Our follow-up work, [ConfFuzz](https://conffuzz.github.io/), was accepted at NDSS'23!
 - We will hold a FlexOS session at the [Lyon Unikraft Hackathon](https://unikraft.org/community/hackathons/2022-05-lyon/).
 - FlexOS will be presented [at SPMA'22](https://sites.google.com/view/spma22eurosys/home).
